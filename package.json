@@ -11,5 +11,8 @@
   "license": "ISC",
   "workspaces": [
     "packages/*"
-  ]
+  ],
+  "dependencies": {
+    "express": "^4.19.2"
+  }
 }
